@@ -15,8 +15,8 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: make setup
-            make install
+        run: make install
+            make setup
             make start
             make test
             make lint
