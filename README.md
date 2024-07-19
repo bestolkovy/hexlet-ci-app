@@ -1,4 +1,4 @@
-# Example app for CI Hexlet course
+# Examrple app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
