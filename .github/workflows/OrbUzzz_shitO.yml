@@ -15,7 +15,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: make install
+        run: npm install
             make setup
             make start
             make test
